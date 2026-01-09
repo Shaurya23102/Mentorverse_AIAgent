@@ -108,6 +108,5 @@ If required, results are enriched using:
 ## Project Flow Diagram
 
 The complete system workflow is illustrated in the architecture diagram included in this repository, showing intent routing, retrieval paths, relevance checks, and refinement loops.
-
----
+![Alt Text](dag_flow.png)
 
