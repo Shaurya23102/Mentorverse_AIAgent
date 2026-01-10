@@ -89,7 +89,7 @@ If required, results are enriched using:
 * **BeautifulSoup** – Web scraping
 * **Vector Database (e.g., ChromaDB)**
 * **Multi-Vector Retriever**
-* **Reranking Models**
+* **Reranking Models** - Flashrank
 * **Semantic Scholar API**
 * **Wikipedia API**
 * **Tavily Search API**
